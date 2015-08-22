@@ -1,0 +1,2 @@
+# palakjunction.github.io
+home
