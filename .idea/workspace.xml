@@ -2,65 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f6e3574-f5d8-49ef-9788-b968e010b207" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arrow-left-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arrow-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arrow-top-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arrow-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/closebutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot?" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot?v=4.0.3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf?v=4.0.3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff?v=4.0.3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/left-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/map-bro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/me.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/right-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/skills.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thu-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thu-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thu-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thu-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thu-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thu-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thu-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thu-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zoom-hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zoom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fallback.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg?v=4.0.3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jquery-ui-1.8.16.custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.contact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.easing.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.easypiechart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.gridrotator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.isotope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.ui.rlightbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.ui.widget.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/lightbox.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modernizr.custom.26633.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/palakjunction.github.io.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/stickUp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="palakjunction.github.io.iws" />
@@ -96,8 +37,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38566554">
-              <caret line="615" column="50" selection-start-line="615" selection-start-column="50" selection-end-line="615" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.6450512">
+              <caret line="500" column="60" selection-start-line="500" selection-start-column="24" selection-end-line="500" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -272,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38566554">
-          <caret line="615" column="50" selection-start-line="615" selection-start-column="50" selection-end-line="615" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.6450512">
+          <caret line="500" column="60" selection-start-line="500" selection-start-column="24" selection-end-line="500" selection-end-column="60" />
           <folding />
         </state>
       </provider>
